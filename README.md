@@ -1,7 +1,7 @@
 <h1>Speech</h1>
 <img src="logp.gif">
 <hr />
-<h2><a href="https://StudioBahram.ir/apps/Python">Link if</a></h2>
+<h2><a href="https://StudioBahram.ir/apps/Python">Link STU Bahram</a></h2>
 <h2>Enter your text and hear the sound</h2>
 <h1>Prerequisites</h1>
 <pre>
